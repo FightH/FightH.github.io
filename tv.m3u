@@ -72,7 +72,7 @@
 		{
 		"name":"CCTV17农村",
 		"url":"http://58.48.37.158:1111/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0"
-		},
+		}
 
 	]
 },
@@ -229,7 +229,7 @@
 	{
 	"name":"大湾区卫视",
 	"url":"http://14.212.185.27:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0"
-	},
+	}
 
 	
 	]
